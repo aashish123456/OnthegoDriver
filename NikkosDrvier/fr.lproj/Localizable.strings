@@ -1,0 +1,115 @@
+/* 
+  Localizable.strings
+  NikkosDrvier
+
+  Created by Umang on 9/1/16.
+  Copyright © 2016 Dotsquares. All rights reserved.
+*/
+
+Login = "S'identifier" ;
+My_Car = "Ma voiture";
+Remember_Me = "Mémoriser mes identifiants" ;
+Home = "Accueil";
+Rating = "Note";
+My_Status = "Mon statut";
+My_Doc = "Mes documents";
+Add_Doc_For_Vehicle = "Ajouter les documents du vehicule";
+Vehicle_Status = "Etat du véhicule";
+Add_Vehicle_Pic = "Ajouter la photo du véhicule";
+My_Profile = "Mon profil";
+Enter_your_username = "Saisissez votre nom d'utilisateur" ;
+Enter_your_lastname = "Entrez votre nom de famille";
+Enter_your_password = "Entrez votre mot de passe";
+Forgot_Password = "Mot de passe oublié  ?";
+Mobile_No = "Numéro de téléphone";
+Driving_License = "Permis de conduire";
+Head_Office_Address = "Adresse du siège social";
+Car_Registration_Number = "Immatriculation";
+Enter_your_name = "Entrez votre nom" ;
+Enter_your_forename = "Saisissez votre nom";
+Enter_your_email = "Entrez votre adresse mail";
+Enter_your_password = "Entrez votre mot de passe";
+Enter_your_phoneno = "Entrez votre numéro de téléphone mobile";
+My_Personal_Details = "Mes informations personnelles";
+Enter_Society_Name = "Saisissez le nom de votre société";
+Enter_Head_Office_Add = "saisissez l'adresse de la siège social de l'entreprise";
+Enter_Siret = "Saisissez votre numéro de SIRET";
+Enter_VIN = "Saisissez le VIN";
+Add_Car = "Ajouter un véhicule";
+Enter_Model_Yr = "Saisissez le mode (l'année)";
+Enter_Plate_No = "Saisissez la plaque d'immatriculation";
+Enter_VehicleCat = "Saisissez la catégorie de véhicule";
+Enter_Make = "Saisissez la marque";
+Enter_Model = "Entrer l'année du vehicule";
+Enter_Passenger = "Saissez le nombre de places";
+Add_Car_Document = "Ajouter un document du véhicule";
+Card_VTC = "Carte VTC ou permis de transport";
+Registration_Doc = "Document d'enregistrement";
+Insurance_Vehicle = "Assurance automobile";
+Insurance_Pro = "Assurance pro";
+Rc_Pro = "RC pro";
+Sign_In = "Connecter avec";
+Add_Copies_Doc = "Ajoutez des copies de documents";
+New_User_signup = "Nouveaux utilisateurs, inscrivez-vous";
+Register = "S'inscrire";
+Select_Salutation = "Choisir votre civilité";
+Driver_Range = "Distance Km";
+Enter_Your_Email = "Entrer votre Email";
+Enter_Your_Confirm_Password = "Confirmez votre mot de passe";
+Enter_Your_Phone_No = "Entrez votre numéro de téléphone";
+Select_Driver_Type = "Choisir la categorie de chauffeur";
+Enter_Company_Name = "Entrez le nom de la société";
+Enter_Company_Address = "Entrez l'adresse de la société";
+Enter_Company_Zipcode = "Entrez le code postal de l'entreprise";
+Enter_Company_Siret = "Entrez le numéro de siret";
+Enter_Company_VAT = "Entrez la TVA de la société";
+Enter_License_Number= "Saisissez le numéro de permis";
+Enter_Taxi_Number = "Entrez le numéro de chauffeur de taxi";
+Enter_CAPA_Number = "Entrez le numéro de licence CAPA";
+Enter_EVCT_Number = "Entrez le numéro EVCT";
+
+Add_My_Document = "Ajouter un document";
+Add_Copies_Of_Documents="Ajouter une copie du document";
+Forward_For_Verification="Envoyer pour vérification";
+Home = "Accueil";
+Fare_Summary="PRIX DE LA COURSE";
+Rate_Customer="Évaluez le client";
+Available_For_Next_Trip="Disponible pour la prochaine course";
+Go_Offline="Se déconnecter";
+Contact_Us="CONTACTEZ NOUS";
+Feel_Free_To_Reach="N'hésitez pas à nous contacter";
+Last_7Days="Les 7 derniers jours";
+Last_24Hours="Dernières 24 heures";
+Last_Month="Le mois dernier";
+From_Date="De la date";
+To_Date="Jusqu'à la date";
+Trip_Id="N° de la course";
+Date="Date";
+Name="Nom";
+Amount="Montant";
+Particular="Coordonnées";
+Balance="Solde";
+Compagnie="Compagnie";
+Trip_Id="N° de la course";
+
+My_Trips="Mes voyages";
+
+Date_Time_Of_Booking="Date/Heure de la réservation:";
+Date_Time_Of_Travel="Date/Heure de la course:";
+From_Address="De l'adresse";
+To_Address="A l'adresse";
+Passenger_Name="Nom du passager";
+Passenger_Number="Numéro du passager";
+Company_Name="Nom de la société";
+Cost="Prix";
+Contact_Support="Contactez le support";
+Balance_Sheet="Bilan et transfert";
+Live_GPS="GPS en direct";
+Add_Driver="Ajouter un chauffeur";
+CAPA="CAPACITAIRE";
+Sign_Up="S'inscrire";
+Attachment_Jpg="Fichier joint";
+Not_Uploaded="N'est pas mis en ligne";
+FAQ="FAQ";
+Code = "Code";
+Add_copyOfDoc = "Ajouter les documents";

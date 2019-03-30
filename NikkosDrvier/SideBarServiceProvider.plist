@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image_name</key>
+		<string>home_icon</string>
+		<key>title</key>
+		<string>Home</string>
+		<key>Segue</key>
+		<string>sw_front</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_profile</string>
+		<key>title</key>
+		<string>My Profile</string>
+		<key>Segue</key>
+		<string>myProfile</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_profile</string>
+		<key>title</key>
+		<string>CAPA</string>
+		<key>Segue</key>
+		<string>CAPA</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_car</string>
+		<key>title</key>
+		<string>My Vehicles</string>
+		<key>Segue</key>
+		<string>myCar</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_documents</string>
+		<key>title</key>
+		<string>My Documents</string>
+		<key>Segue</key>
+		<string>document</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_trips</string>
+		<key>title</key>
+		<string>My Trips</string>
+		<key>Segue</key>
+		<string>myTrip</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>live_GPS</string>
+		<key>title</key>
+		<string>Live GPS</string>
+		<key>Segue</key>
+		<string>liveGPS</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>balance_sheet</string>
+		<key>title</key>
+		<string>Balance Sheet &amp; Transfer</string>
+		<key>Segue</key>
+		<string>balance</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>settings</string>
+		<key>title</key>
+		<string>Settings</string>
+		<key>Segue</key>
+		<string>setting</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>contact_support</string>
+		<key>title</key>
+		<string>Contact Support</string>
+		<key>Segue</key>
+		<string>Contact</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>logout</string>
+		<key>title</key>
+		<string>Logout</string>
+		<key>Segue</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

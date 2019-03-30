@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image_name</key>
+		<string>home_icon</string>
+		<key>title</key>
+		<string>Accueil</string>
+		<key>Segue</key>
+		<string>sw_front</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_profile</string>
+		<key>title</key>
+		<string>Mon profil</string>
+		<key>Segue</key>
+		<string>myProfile</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_profile</string>
+		<key>title</key>
+		<string>Capacitaire</string>
+		<key>Segue</key>
+		<string>CAPA</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_car</string>
+		<key>title</key>
+		<string>Ma voiture</string>
+		<key>Segue</key>
+		<string>myCar</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_documents</string>
+		<key>title</key>
+		<string>Mes documents</string>
+		<key>Segue</key>
+		<string>document</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>my_trips</string>
+		<key>title</key>
+		<string>Mes course</string>
+		<key>Segue</key>
+		<string>myTrip</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>live_GPS</string>
+		<key>title</key>
+		<string>Carte temps réel </string>
+		<key>Segue</key>
+		<string>liveGPS</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>balance_sheet</string>
+		<key>title</key>
+		<string>Bilan et Transfert</string>
+		<key>Segue</key>
+		<string>balance</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>contact_support</string>
+		<key>title</key>
+		<string>Contacter l&apos;assistance technique</string>
+		<key>Segue</key>
+		<string>Contact</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>faq</string>
+		<key>title</key>
+		<string>FAQ</string>
+		<key>Segue</key>
+		<string>FAQ</string>
+	</dict>
+	<dict>
+		<key>image_name</key>
+		<string>logout</string>
+		<key>title</key>
+		<string>Se déconnecter</string>
+		<key>Segue</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

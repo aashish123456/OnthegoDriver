@@ -1,0 +1,6 @@
+framework module Pods_OnthegoDriver {
+  umbrella header "Pods-OnthegoDriver-umbrella.h"
+
+  export *
+  module * { export * }
+}

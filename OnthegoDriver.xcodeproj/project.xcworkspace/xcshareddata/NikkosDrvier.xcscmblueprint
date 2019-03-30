@@ -1,0 +1,45 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0bb8f406-22a5-d845-a87c-fd910986915b++9819",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0bb8f406-22a5-d845-a87c-fd910986915b++5374" : {
+
+    },
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9296" : {
+
+    },
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9819" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0bb8f406-22a5-d845-a87c-fd910986915b++5374" : 0,
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9296" : 0,
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9819" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "17E0A2D4-8713-4FCE-B17B-E84875084DFD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0bb8f406-22a5-d845-a87c-fd910986915b++5374" : "NIKKOS\/",
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9296" : "trunk\/",
+    "0bb8f406-22a5-d845-a87c-fd910986915b++9819" : "NikkosNew\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NikkosDrvier",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NikkosDrvier.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.4:81\/svn\/iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0bb8f406-22a5-d845-a87c-fd910986915b++5374"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.4:81\/svn\/iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0bb8f406-22a5-d845-a87c-fd910986915b++9296"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.4:81\/svn\/iOS",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0bb8f406-22a5-d845-a87c-fd910986915b++9819"
+    }
+  ]
+}
